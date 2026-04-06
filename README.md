@@ -8,6 +8,8 @@ This is a collection of notes I wrote while teaching myself low-latency systems 
 
 These aren't polished tutorials written after the fact. They follow the actual learning path, including the parts where I was wrong about something and had to go back and figure out why. I think that's more useful than pretending I understood everything the first time.
 
+For the original unedited notes (~44k words, significantly more unhinged), see [the deep dives](https://github.com/Jennyfirrr/Learning_cpp/tree/main/projects/deep_dives).
+
 The code examples all compile and the concepts all connect to a real system. If you want to see where this stuff actually landed, the engine is at [github.com/Jennyfirrr/FoxML_Trader](https://github.com/Jennyfirrr/FoxML_Trader).
 
 ---
