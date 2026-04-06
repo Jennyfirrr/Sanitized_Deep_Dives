@@ -23,6 +23,10 @@ The code examples all compile and the concepts all connect to a real system. If 
 7. **[Lock-Free Concurrency](07_lock_free_concurrency.md)** — CAS, atomics, spin loops, and sharing data between threads without anyone waiting
 8. **[From Theory to Engine](08_from_theory_to_engine.md)** — how all of this came together into a live trading system
 
+### Appendix
+
+- **[Appendix A, Annotated Assembly](appendix_a_annotated_assembly.md)** — the full progression from a 24-instruction nested loop to a single `movq`, with annotated compiler output at every stage
+
 ---
 
-*~16,000 words. Written between 1am and 4am on various weeknights when I should have been doing my Java homework.*
+*~18,000 words. Written between 1am and 4am on various weeknights when I should have been doing my Java homework.*
