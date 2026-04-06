@@ -1,6 +1,6 @@
 # From Bits to Branchless: Building a Trading Engine from First Principles
 
-*To my CS professors, Dr. Unan, and Dr. Johnstone <3*
+*To my CS professors, Dr. Unan, and Dr. Johnstone, and that one dude that I met on POE <3*
 
 ---
 
